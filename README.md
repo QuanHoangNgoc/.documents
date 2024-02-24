@@ -15,13 +15,13 @@
 - MIGII TOEIC 
 
 ###### how to learn
-- [Circle of Knowledge]()
+- [Circle of Knowledge](https://www.facebook.com/groups/obsidian.secondbrain/permalink/788107569856714/?mibextid=K35XfP)
   
 ###### reading and research
 - [CÁCH ĐỌC NHANH](https://www.facebook.com/groups/594306492570157/?multi_permalinks=792430142757790&ref=share)
-- [Công cụ hỗ trợ đọc và nghiên cứu]()
+- [Công cụ hỗ trợ đọc và nghiên cứu](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
   
-##### artifical intelligen 
+##### AI
 - [Mamba cho Image Data](https://www.facebook.com/groups/aivietnam.edu.vn/permalink/1850492688742363/?mibextid=K35XfP) 
 - [Docker for DL](https://www.facebook.com/groups/miaigroup/permalink/1595955991175667/?mibextid=K35XfP)
 - [Intro to ML, Model Insights - Kaggle](https://www.kaggle.com/learn)

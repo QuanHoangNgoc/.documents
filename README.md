@@ -21,7 +21,7 @@
 - [CÁCH ĐỌC NHANH](https://www.facebook.com/groups/594306492570157/?multi_permalinks=792430142757790&ref=share)
 - [Công cụ hỗ trợ đọc và nghiên cứu]()
   
-##### AI  
+##### artifical intelligen 
 - [Mamba cho Image Data](https://www.facebook.com/groups/aivietnam.edu.vn/permalink/1850492688742363/?mibextid=K35XfP) 
 - [Docker for DL](https://www.facebook.com/groups/miaigroup/permalink/1595955991175667/?mibextid=K35XfP)
 - [Intro to ML, Model Insights - Kaggle](https://www.kaggle.com/learn)

@@ -30,7 +30,7 @@
 - [Intro to ML, Model Insights - Kaggle](https://www.kaggle.com/learn)
 - [PivotTableJS: Tạo bảng và sơ đồ mà không cần code](https://github.com/nicolaskruchten/pivottable?fbclid=IwAR1mTagmxkNWiq7AOqWd6CAt-0_5uRMMcUQWgXSUgYK7h0ueV7webrmys-w)
 - [NLP-Xây dựng hệ thống hỏi-đáp mở với hệ cơ sở dữ liệu vector](https://www.facebook.com/groups/520212065449550/permalink/1587956062008473/)
-- [Tensorflow data pipeline - Tăng tốc độ fitting]
+- [Tensorflow data pipeline - Tăng tốc độ fitting](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
   - [1](https://youtu.be/4A5vftpj_Pc?si=2ZdZFb0ls8CSqxkZ)
   - [2](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
     

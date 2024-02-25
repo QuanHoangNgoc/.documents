@@ -27,7 +27,7 @@
 - [Docker for DL](https://www.facebook.com/groups/miaigroup/permalink/1595955991175667/?mibextid=K35XfP)
 - [Intro to ML, Model Insights - Kaggle](https://www.kaggle.com/learn)
 - [PivotTableJS: Tạo bảng và sơ đồ mà không cần code](https://github.com/nicolaskruchten/pivottable?fbclid=IwAR1mTagmxkNWiq7AOqWd6CAt-0_5uRMMcUQWgXSUgYK7h0ueV7webrmys-w)
-- [Xây dựng hệ thống hỏi-đáp mở với hệ cơ sở dữ liệu vector](https://www.facebook.com/groups/520212065449550/permalink/1587956062008473/)
+- [NLP-Xây dựng hệ thống hỏi-đáp mở với hệ cơ sở dữ liệu vector](https://www.facebook.com/groups/520212065449550/permalink/1587956062008473/)
 
 ###### programing & development 
 - [TÀI NGUYÊN HỌC TẬP ĐẾN TỪ TECH LEAD UBER](https://github.com/charlax/professional-programming?fbclid=IwAR3n49q5vTIboDzhLDM3hdBvaxIKKhnc9WTu_bBLbGwg7HDLq4TQv9QsonY)

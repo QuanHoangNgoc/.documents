@@ -24,26 +24,26 @@
 
 ###### how to learn
 - [Circle of Knowledge](https://www.facebook.com/groups/obsidian.secondbrain/permalink/788107569856714/?mibextid=K35XfP)
-- [HOW TO LEARN - Duy]()
+- [HOW TO LEARN - Phd.Duy](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/Ec8dTph7-TxDl_aygKcwrd4BPL9cpbd2YDd1AyF6bsH4CQ?e=ntt4OU)
 ###### reading and research
 - [QUY TRÌNH ĐỌC SÁCH KHOA HỌC](https://www.facebook.com/groups/obsidian.secondbrain/permalink/794161009251370/?mibextid=K35XfP)
 - [CÁCH ĐỌC NHANH](https://www.facebook.com/groups/594306492570157/?multi_permalinks=792430142757790&ref=share)
 - [Công cụ hỗ trợ đọc và nghiên cứu](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
   
-####### AI
+###### AI
 - [Mamba](https://github.com/QuanHoangNgoc/.documents/blob/main/Mamba.pdf)
 - [Mamba cho Image Data](https://www.facebook.com/groups/aivietnam.edu.vn/permalink/1850492688742363/?mibextid=K35XfP) 
 - [Docker for DL](https://www.facebook.com/groups/miaigroup/permalink/1595955991175667/?mibextid=K35XfP)
 - [Intro to ML, Model Insights - Kaggle](https://www.kaggle.com/learn)
 - [PivotTableJS: Tạo bảng và sơ đồ mà không cần code](https://github.com/nicolaskruchten/pivottable?fbclid=IwAR1mTagmxkNWiq7AOqWd6CAt-0_5uRMMcUQWgXSUgYK7h0ueV7webrmys-w)
 - [NLP-Xây dựng hệ thống hỏi-đáp mở với hệ cơ sở dữ liệu vector](https://www.facebook.com/groups/520212065449550/permalink/1587956062008473/)
-- [Tensorflow data pipeline - Tăng tốc độ fitting](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
+- [Tensorflow input pipeline - Tăng tốc độ fitting](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
   - [1](https://youtu.be/4A5vftpj_Pc?si=2ZdZFb0ls8CSqxkZ)
   - [2](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
-####### data 
+###### data 
 - [Valuables Insight from data](https://youtu.be/4VFIYqZ2OTE?si=ryWPInDbKrO_nVvI)
 - [Giải mã Insight from data](https://youtu.be/KbkFe1OqrK4?si=C4PuAcFdKp7vIZgt)
-####### programing & development 
+###### programing & development 
 - [Software Engineer - Layers](https://youtu.be/5tqaDRM2nvM?si=lZM15awhABBTPb9D) 
 - [TÀI NGUYÊN HỌC TẬP ĐẾN TỪ TECH LEAD UBER](https://github.com/charlax/professional-programming?fbclid=IwAR3n49q5vTIboDzhLDM3hdBvaxIKKhnc9WTu_bBLbGwg7HDLq4TQv9QsonY)
 - [Search Engine](https://youtu.be/ihp2twFPfG4?si=bEIqcbUjz98CJGCA)

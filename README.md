@@ -18,6 +18,7 @@
 - [Circle of Knowledge](https://www.facebook.com/groups/obsidian.secondbrain/permalink/788107569856714/?mibextid=K35XfP)
   
 ###### reading and research
+- [QUY TRÌNH ĐỌC SÁCH KHOA HỌC](https://www.facebook.com/groups/obsidian.secondbrain/permalink/794161009251370/?mibextid=K35XfP)
 - [CÁCH ĐỌC NHANH](https://www.facebook.com/groups/594306492570157/?multi_permalinks=792430142757790&ref=share)
 - [Công cụ hỗ trợ đọc và nghiên cứu](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
   

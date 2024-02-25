@@ -31,7 +31,7 @@
 - [Công cụ hỗ trợ đọc và nghiên cứu](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
 
 ###### paper need read 
-- [Deep Reforcement Learning](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXAP1-_hVNpChHrVUg6YDa8B-DkrbphzfeDwwFPjl361EQ?e=V8r8iD)
+- [DLR for CV](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXAP1-_hVNpChHrVUg6YDa8B-DkrbphzfeDwwFPjl361EQ?e=V8r8iD)
 - [Scene Text Recognition: Text in Image](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXAP1-_hVNpChHrVUg6YDa8B-DkrbphzfeDwwFPjl361EQ?e=V8r8iD)
 
 ###### AI

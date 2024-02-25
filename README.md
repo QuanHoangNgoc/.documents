@@ -23,6 +23,7 @@
 - [Công cụ hỗ trợ đọc và nghiên cứu](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
   
 ##### AI
+- [Mamba](https://github.com/QuanHoangNgoc/.documents/blob/main/Mamba.pdf)
 - [Mamba cho Image Data](https://www.facebook.com/groups/aivietnam.edu.vn/permalink/1850492688742363/?mibextid=K35XfP) 
 - [Docker for DL](https://www.facebook.com/groups/miaigroup/permalink/1595955991175667/?mibextid=K35XfP)
 - [Intro to ML, Model Insights - Kaggle](https://www.kaggle.com/learn)

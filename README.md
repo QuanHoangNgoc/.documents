@@ -33,13 +33,17 @@
 ###### paper need read 
 - [DLR for CV](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXAP1-_hVNpChHrVUg6YDa8B-DkrbphzfeDwwFPjl361EQ?e=V8r8iD)
 - [Scene Text Recognition: Text in Image](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXAP1-_hVNpChHrVUg6YDa8B-DkrbphzfeDwwFPjl361EQ?e=V8r8iD)
+- [OCR vs. Scence Text Regconitation](https://github.com/xinke-wang/OCRDatasets)
+- Survey paper
 
 ###### AI
+- [AutoEncoder: Img2Img-Model](https://www.tensorflow.org/tutorials/generative/autoencoder)
+- [Kaggle: platform for training process](https://youtu.be/fXnrFGjSwrY?si=c05v4_qTFZyUExSY)
 - [Mamba](https://github.com/QuanHoangNgoc/.documents/blob/main/Mamba.pdf)
 - [Mamba cho Image Data](https://www.facebook.com/groups/aivietnam.edu.vn/permalink/1850492688742363/?mibextid=K35XfP) 
 - [Docker for DL](https://www.facebook.com/groups/miaigroup/permalink/1595955991175667/?mibextid=K35XfP)
 - [NLP-Xây dựng hệ thống hỏi-đáp mở với hệ cơ sở dữ liệu vector](https://www.facebook.com/groups/520212065449550/permalink/1587956062008473/)
-- [ML Intro, Model Insights - Kaggle](https://www.kaggle.com/learn)
+- [ML-Intro, Model Insights - Kaggle](https://www.kaggle.com/learn)
 - [PivotTableJS: Tạo bảng và sơ đồ mà không cần code](https://github.com/nicolaskruchten/pivottable?fbclid=IwAR1mTagmxkNWiq7AOqWd6CAt-0_5uRMMcUQWgXSUgYK7h0ueV7webrmys-w)
 - [Tensorflow input pipeline - Tăng tốc độ fitting](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
   - [1](https://youtu.be/4A5vftpj_Pc?si=2ZdZFb0ls8CSqxkZ)

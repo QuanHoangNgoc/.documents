@@ -31,9 +31,10 @@
 - [Công cụ hỗ trợ đọc và nghiên cứu](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
 
 ###### paper need read 
-- [DLR for CV](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXAP1-_hVNpChHrVUg6YDa8B-DkrbphzfeDwwFPjl361EQ?e=V8r8iD)
-- [Scene Text Recognition: Text in Image](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXAP1-_hVNpChHrVUg6YDa8B-DkrbphzfeDwwFPjl361EQ?e=V8r8iD)
-- [OCR vs. Scence Text Regconitation](https://github.com/xinke-wang/OCRDatasets)
+- [DL books](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/Ec02ZbBC7gVCozv_iDyhSTEBd8Couei4LjvdNwiJ1F0xfw?e=KIM52c)
+- [Text in Image](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EtNdqyFJdIBEnwJcv1agax8BpNbdpY9K7kAV-3JZRnwXBQ?e=mdYwog)
+- [DLR for CV](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/EjrhnIoIVYtBh4gvU2lu5bMBHNg3rqeOkyZN3xc8ISvQ_w?e=rbM3cJ)
+- [OCR vs. Scene Text Regconition](https://github.com/xinke-wang/OCRDatasets)
 - Survey paper
 
 ###### AI

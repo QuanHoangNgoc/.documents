@@ -8,3 +8,6 @@
   
 ###### breakthrough success
 - [Slide](https://docs.google.com/presentation/d/1nJ65LUlu9k_tfuQJ4jq4z-qmqOQZ0DjKKw8wn5qnnFA/edit#slide=id.g1997480a55_0_0) 
+
+###### học bổng 
+- [HB_NNS](https://uithcm-my.sharepoint.com/:w:/g/personal/22521178_ms_uit_edu_vn/EeSmEztJh7xMkOd7fu9kFowBSyOFtOP5M8jCx8iyf1YQ5A?e=aWkuqQ) 

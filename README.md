@@ -19,9 +19,6 @@
   - build contents
 - [journey to go to CTO](https://www.youtube.com/watch?v=mmHNowW8l-Y&t=8s)
 
-###### iphone app
-- MIGII TOEIC 
-
 ###### how to learn
 - [Circle of Knowledge](https://www.facebook.com/groups/obsidian.secondbrain/permalink/788107569856714/?mibextid=K35XfP)
 - [HOW TO LEARN - Phd.Duy](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/Ec8dTph7-TxDl_aygKcwrd4BPL9cpbd2YDd1AyF6bsH4CQ?e=ntt4OU)

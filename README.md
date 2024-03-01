@@ -35,6 +35,7 @@
 - Survey paper
 
 ###### AI
+- [Word2Vec: mlcoban](https://machinelearningcoban.com/tabml_book/ch_embedding/word2vec.html)
 - [AutoEncoder: Img2Img-Model](https://www.tensorflow.org/tutorials/generative/autoencoder)
 - [Kaggle: platform for training process](https://youtu.be/fXnrFGjSwrY?si=c05v4_qTFZyUExSY)
 - [Mamba](https://github.com/QuanHoangNgoc/.documents/blob/main/Mamba.pdf)

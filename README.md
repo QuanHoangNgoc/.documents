@@ -17,7 +17,7 @@
 
 # Roadmap
 ### data scienticts
-- [Data Science](https://www.youtube.com/watch?v=PFPt6PQNslE)
+- [Data Scienctict](https://www.youtube.com/watch?v=PFPt6PQNslE)
 ### backend 
 - [Backend Developer](https://www.alexhyett.com/backend-developer-roadmap/)
 ### extend 

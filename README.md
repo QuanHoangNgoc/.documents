@@ -2,6 +2,7 @@
 [REPO](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&id=%2Fpersonal%2F22521178%5Fms%5Fuit%5Fedu%5Fvn%2FDocuments%2FRepo&view=0)
 
 ###### career 
+- [Bí quyết Deal Lương](https://www.facebook.com/groups/3062609024006762/?multi_permalinks=3520373728230287&ref=share) 
 - Interview
   - [Problem Solving](https://youtu.be/555TQFT31jE?si=Qs4JZ1vgs5xtgw2d)
   - [Problem Solving and Algorithm](https://youtu.be/2_mbXFDlfC4?si=W_XPCKrFw--m_VHE)
@@ -23,6 +24,7 @@
 - [Circle of Knowledge](https://www.facebook.com/groups/obsidian.secondbrain/permalink/788107569856714/?mibextid=K35XfP)
 - [HOW TO LEARN - Phd.Duy](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/Ec8dTph7-TxDl_aygKcwrd4BPL9cpbd2YDd1AyF6bsH4CQ?e=ntt4OU)
 ###### how to reading and research
+- [Công cụ đọc PDF cực nhanh](https://www.facebook.com/groups/obsidian.secondbrain/permalink/796658805668257/?mibextid=K35XfP) 
 - [QUY TRÌNH ĐỌC SÁCH KHOA HỌC](https://www.facebook.com/groups/obsidian.secondbrain/permalink/794161009251370/?mibextid=K35XfP)
 - [CÁCH ĐỌC NHANH](https://www.facebook.com/groups/594306492570157/?multi_permalinks=792430142757790&ref=share)
 - [Công cụ hỗ trợ đọc và nghiên cứu](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
@@ -48,9 +50,11 @@
   - [1](https://youtu.be/4A5vftpj_Pc?si=2ZdZFb0ls8CSqxkZ)
     [2](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
 ###### data 
+- [Bud500 - Bộ dữ liệu gồm gần 500 giờ giọng nói Tiếng Việt](https://www.facebook.com/groups/511510259620251/?multi_permalinks=1598826084221991&ref=share) 
 - [Valuables Insight from data](https://youtu.be/4VFIYqZ2OTE?si=ryWPInDbKrO_nVvI)
 - [Giải mã Insight from data](https://youtu.be/KbkFe1OqrK4?si=C4PuAcFdKp7vIZgt)
 ###### programing & development 
+- [Các tầng của Cloud](https://www.facebook.com/share/p/mFP1YkxrWhxeyUpd/?mibextid=K35XfP)
 - [Software Engineer - Layers](https://youtu.be/5tqaDRM2nvM?si=lZM15awhABBTPb9D) 
 - [TÀI NGUYÊN HỌC TẬP ĐẾN TỪ TECH LEAD UBER](https://github.com/charlax/professional-programming?fbclid=IwAR3n49q5vTIboDzhLDM3hdBvaxIKKhnc9WTu_bBLbGwg7HDLq4TQv9QsonY)
 - [Search Engine](https://youtu.be/ihp2twFPfG4?si=bEIqcbUjz98CJGCA)

@@ -23,5 +23,5 @@
 - [x] [Papers With Code](https://paperswithcode.com/)
 - Search personal
   - [o] [Scholar](https://scholar.google.com.vn/)
-  - [researchgate](https://www.researchgate.net/) 
+  - [researchgate](https://github.com/QuanHoangNgoc/CS2205.CH1501/blob/main/README.md) 
 - [PP NCKH cho cao học](https://github.com/phongpirik/CS2205.CH1501?tab=readme-ov-file) 

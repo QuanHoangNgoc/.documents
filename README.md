@@ -6,9 +6,15 @@
 [kaggle](https://www.kaggle.com/learn)
 [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
 ### computational cloud
-[kaggle](https://www.kaggle.com/work/code)
 [colab](https://colab.research.google.com/)
+[kaggle](https://www.kaggle.com/work/code)
 ### repo
 [github](https://github.com/QuanHoangNgoc)
 [onedrive](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&view=0)
 [drive](https://drive.google.com/drive/u/0/home)
+
+# references (background) 
+- [v] [ML from scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+- [Deeplearning-TF: codebasic](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- [Deeplearning-Pytorch](https://d2l.ai/chapter_introduction/index.html)
+

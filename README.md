@@ -14,7 +14,7 @@
 [drive](https://drive.google.com/drive/u/0/home)
 
 # references (background) 
-- [v] [ML from scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+- [o] [ML from scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 - [x] [Deeplearning-TF: codebasic](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [x] [Deeplearning-Pytorch](https://d2l.ai/chapter_introduction/index.html)
 

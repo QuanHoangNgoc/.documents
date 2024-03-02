@@ -2,6 +2,8 @@
 [REPO](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&id=%2Fpersonal%2F22521178%5Fms%5Fuit%5Fedu%5Fvn%2FDocuments%2FRepo&view=0)
 
 ###### career 
+- [AI roadmap](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
+- [9 kỹ năng của người xuất sắc](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 
 - [Bí quyết Deal Lương](https://www.facebook.com/groups/3062609024006762/?multi_permalinks=3520373728230287&ref=share) 
 - Interview
   - [Problem Solving](https://youtu.be/555TQFT31jE?si=Qs4JZ1vgs5xtgw2d)
@@ -33,6 +35,7 @@
 - Survey paper
 
 ###### AI
+- [MiAI: Objec tracking](https://youtu.be/hzOU9lp4Xng?si=7xUhTYDb0G4n3R5J) 
 - [Word2Vec: mlcoban](https://machinelearningcoban.com/tabml_book/ch_embedding/word2vec.html)
 - [AutoEncoder: Img2Img-Model](https://www.tensorflow.org/tutorials/generative/autoencoder)
 - [Kaggle: platform for training process](https://youtu.be/fXnrFGjSwrY?si=c05v4_qTFZyUExSY)
@@ -50,6 +53,7 @@
 - [Valuables Insight from data](https://youtu.be/4VFIYqZ2OTE?si=ryWPInDbKrO_nVvI)
 - [Giải mã Insight from data](https://youtu.be/KbkFe1OqrK4?si=C4PuAcFdKp7vIZgt)
 ###### programing & development 
+- [Đồ họa máy tính - VuCoder](https://youtu.be/6d9A9DlI0WI?si=XBt6abhCn7jEbzIY) 
 - [Các tầng của Cloud](https://www.facebook.com/share/p/mFP1YkxrWhxeyUpd/?mibextid=K35XfP)
 - [Software Engineer - Layers](https://youtu.be/5tqaDRM2nvM?si=lZM15awhABBTPb9D) 
 - [TÀI NGUYÊN HỌC TẬP ĐẾN TỪ TECH LEAD UBER](https://github.com/charlax/professional-programming?fbclid=IwAR3n49q5vTIboDzhLDM3hdBvaxIKKhnc9WTu_bBLbGwg7HDLq4TQv9QsonY)

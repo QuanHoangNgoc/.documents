@@ -20,8 +20,8 @@
 
 # research gates 
 - [x] Survey papers in topics
-- [x] paperwithcode
+- [x] [Papers With Code](https://paperswithcode.com/)
 - Search personal
-  - Scholar
-  - researchgate
-
+  - [o] [Scholar](https://scholar.google.com.vn/)
+  - [researchgate](https://www.researchgate.net/) 
+- [PP NCKH cho cao học](https://github.com/phongpirik/CS2205.CH1501?tab=readme-ov-file) 

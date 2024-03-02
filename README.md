@@ -5,7 +5,7 @@
 ### learn about 
 [kaggle](https://www.kaggle.com/learn)
 [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
-### computational cloud
+### computational and experimental environments
 [colab](https://colab.research.google.com/)
 [kaggle](https://www.kaggle.com/work/code)
 ### repo
@@ -17,4 +17,11 @@
 - [o] [ML from scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 - [x] [Deeplearning-TF: codebasic](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [x] [Deeplearning-Pytorch](https://d2l.ai/chapter_introduction/index.html)
+
+# research gates 
+- [x] Survey papers in topics
+- [x] paperwithcode
+- Search personal
+  - Scholar
+  - researchgate
 

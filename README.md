@@ -23,5 +23,10 @@
 - [x] [Papers With Code](https://paperswithcode.com/)
 - Search personal
   - [o] [Scholar](https://scholar.google.com.vn/)
-  - [researchgate](https://github.com/QuanHoangNgoc/CS2205.CH1501/blob/main/README.md) 
-- [PP NCKH cho cao học](https://github.com/phongpirik/CS2205.CH1501?tab=readme-ov-file) 
+  - [researchgate](https://github.com/QuanHoangNgoc/CS2205.CH1501/blob/main/README.md)
+- [PP NCKH cho cao học](https://github.com/QuanHoangNgoc/CS2205.CH1501)
+- Anh Sơn 
+- [Awesome-Object-Detection](https://github.com/daicoolb/Awesome-Object-Detections)
+- [OD](https://github.com/amusi/awesome-object-detection)
+- [YOLOv1](https://arxiv.org/abs/1506.02640)
+- [How to read paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)

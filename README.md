@@ -6,8 +6,8 @@
 [kaggle](https://www.kaggle.com/learn)
 [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
 ### cloud computers 
-[x] [kaggle](https://www.kaggle.com/work/code)
-[colab](https://colab.research.google.com/)
+- [x] [kaggle](https://www.kaggle.com/work/code)
+- [colab](https://colab.research.google.com/)
 ### repo
 [github](https://github.com/QuanHoangNgoc)
 [onedrive](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&view=0)

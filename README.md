@@ -1,9 +1,8 @@
 # .learning
-### courses
-[uit](https://courses.uit.edu.vn/)
+### courses & learn about 
+- [uit](https://courses.uit.edu.vn/)
 [coursera](https://www.coursera.org/my-learning?myLearningTab=COMPLETED)
-### learn about 
-[kaggle](https://www.kaggle.com/learn)
+- [kaggle](https://www.kaggle.com/learn)
 [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
 ### cloud computers 
 - [x] [kaggle](https://www.kaggle.com/work/code)

@@ -10,6 +10,8 @@
 - [skills for speaking and writting](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXlIK3cCOlNBmVzegMfejYIBqJ4omixnBL3c7cqpjpQUxQ?e=Wl5Cbf)
 - [Ngoại ng](https://drive.google.com/drive/folders/1AFG_Vt7fPZazSSTwb3vKMV4jCMFZcSvD?usp=drive_link)
 
+###### bài viết hay
+- [Khí chất bao nhiêu, hạnh phúc bấy nhiêu](https://www.facebook.com/100071455866281/posts/417530787305447/?mibextid=WC7FNe) 
 ###### TED talks
 - Effective Reading
   - [Speed Reader](https://youtu.be/HB__TF9rp0E?si=WDvuGuzXA4jssFjg)

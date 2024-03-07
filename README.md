@@ -1,6 +1,4 @@
 # .documents
-[REPO](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&id=%2Fpersonal%2F22521178%5Fms%5Fuit%5Fedu%5Fvn%2FDocuments%2FRepo&view=0)
-
 ###### career 
 - [Craw Data for Job 2023](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
 - [AI roadmap](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 

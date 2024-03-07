@@ -2,6 +2,7 @@
 [REPO](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&id=%2Fpersonal%2F22521178%5Fms%5Fuit%5Fedu%5Fvn%2FDocuments%2FRepo&view=0)
 
 ###### career 
+- [Craw Data for Job 2023](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
 - [AI roadmap](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
 - [9 kỹ năng của người xuất sắc](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 
 - [Bí quyết Deal Lương](https://www.facebook.com/groups/3062609024006762/?multi_permalinks=3520373728230287&ref=share) 
@@ -35,6 +36,7 @@
 - Survey paper
 
 ###### AI
+- [Prompt Engineering](https://www.facebook.com/groups/649228858868758/?multi_permalinks=1857917231333242&ref=share) 
 - [MiAI: Objec tracking](https://youtu.be/hzOU9lp4Xng?si=7xUhTYDb0G4n3R5J) 
 - [Word2Vec: mlcoban](https://machinelearningcoban.com/tabml_book/ch_embedding/word2vec.html)
 - [AutoEncoder: Img2Img-Model](https://www.tensorflow.org/tutorials/generative/autoencoder)

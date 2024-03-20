@@ -18,7 +18,7 @@
 - [x] [Deeplearning-Pytorch](https://d2l.ai/chapter_introduction/index.html)
 
 # research gates 
-- [x] Survey-Type-Papers + Topics
+- Survey-Type-Papers + Topics
 - Papers Searching and Reviewing
   - [x] [Papers With Code](https://paperswithcode.com/)
   - [Scholar](https://scholar.google.com.vn/)

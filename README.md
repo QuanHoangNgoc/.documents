@@ -21,7 +21,7 @@
 - [x] Survey-Type-Papers + Topics
 - Papers Searching and Reviewing
   - [x] [Papers With Code](https://paperswithcode.com/)
-  - [o] [Scholar](https://scholar.google.com.vn/)
+  - [Scholar](https://scholar.google.com.vn/)
   - [researchgate](https://github.com/QuanHoangNgoc/CS2205.CH1501/blob/main/README.md)
 
 - [x] [PP NCKH cho cao học](https://github.com/QuanHoangNgoc/CS2205.CH1501)

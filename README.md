@@ -17,7 +17,7 @@
 
 ### TED talks
 - [Personal Brand |YT](https://youtu.be/Alqt7pIbp_o?si=CmbK-3xcWfaJMNUY) 
-- [5 ways to train brain to be a genius: long-short term |YT](https://youtu.be/3znAl0QH1eE?si=B9V6D0n1FCP9qgcO)
+- [5 ways to Train Brain to be a Genius: long-short term |YT](https://youtu.be/3znAl0QH1eE?si=B9V6D0n1FCP9qgcO)
 - [100% brain with get 10%  |Ayanokoji](https://youtu.be/JWl7FMmO-OY?si=Z0306A0W8iN544AV)
 - [12 weeks than 12 months |Ayanokoji](https://youtu.be/Ung2nrYBvmM?si=x6di127rHfu3u82a)
 - [x] 21/3/2024 

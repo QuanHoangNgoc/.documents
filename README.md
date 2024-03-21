@@ -49,7 +49,7 @@
 - [Bud500 - Bộ dữ liệu gồm gần 500 giờ giọng nói Tiếng Việt |MiAI](https://www.facebook.com/groups/511510259620251/?multi_permalinks=1598826084221991&ref=share) 
 - [Valuables Insight from Data |YT](https://youtu.be/4VFIYqZ2OTE?si=ryWPInDbKrO_nVvI)
 - [Giải mã Insight from data |YT](https://youtu.be/KbkFe1OqrK4?si=C4PuAcFdKp7vIZgt)
-###### programing & development 
+### Programing & Development 
 - [Đồ họa máy tính |VuCoder](https://youtu.be/6d9A9DlI0WI?si=XBt6abhCn7jEbzIY) 
 - [Các tầng của Cloud |FB](https://www.facebook.com/share/p/mFP1YkxrWhxeyUpd/?mibextid=K35XfP)
 - [Software Engineer - Layers |YT](https://youtu.be/5tqaDRM2nvM?si=lZM15awhABBTPb9D) 

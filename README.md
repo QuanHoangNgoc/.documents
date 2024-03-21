@@ -1,19 +1,20 @@
 # .life books
 ### nhắn gửi của Nận 
-- [Tổng hợp về sức khỏe Thể chất - Tinh thần - Thói quen](https://uithcm-my.sharepoint.com/:p:/g/personal/22521178_ms_uit_edu_vn/EQoNzZPVbn5DtgcQWhUyzIoBMKq1CXA1Cswb2MQRxTXdNg?e=CsInnK)
-- [Breakthrough Success](https://docs.google.com/presentation/d/1nJ65LUlu9k_tfuQJ4jq4z-qmqOQZ0DjKKw8wn5qnnFA/edit#slide=id.g1997480a55_0_0) 
+- [Tổng hợp về sức khỏe Thể chất - Tinh thần - Thói quen |Nan](https://uithcm-my.sharepoint.com/:p:/g/personal/22521178_ms_uit_edu_vn/EQoNzZPVbn5DtgcQWhUyzIoBMKq1CXA1Cswb2MQRxTXdNg?e=CsInnK)
+- [Breakthrough Success |Nan](https://docs.google.com/presentation/d/1nJ65LUlu9k_tfuQJ4jq4z-qmqOQZ0DjKKw8wn5qnnFA/edit#slide=id.g1997480a55_0_0) 
 
 ### app on phone 
 - MIGII TOEIC in iphone app
-- [Videomochi](https://video.mochidemy.com/free/636a084c5a18e1bbaa7ad8c5)
+- [Videomochi |Nan](https://video.mochidemy.com/free/636a084c5a18e1bbaa7ad8c5)
 ### toeic 
-- [skills for speaking and writting](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXlIK3cCOlNBmVzegMfejYIBqJ4omixnBL3c7cqpjpQUxQ?e=Wl5Cbf)
+- [Skills for Speaking and Writting](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/EXlIK3cCOlNBmVzegMfejYIBqJ4omixnBL3c7cqpjpQUxQ?e=Wl5Cbf)
 - [Ngoại ngu](https://drive.google.com/drive/folders/1AFG_Vt7fPZazSSTwb3vKMV4jCMFZcSvD?usp=drive_link)
 
 ### bài viết hay
-- [Khí chất bao nhiêu, hạnh phúc bấy nhiêu](https://www.facebook.com/100071455866281/posts/417530787305447/?mibextid=WC7FNe)
+- [Khí chất bao nhiêu, hạnh phúc bấy nhiêu |FB](https://www.facebook.com/100071455866281/posts/417530787305447/?mibextid=WC7FNe)
 ### video & câu nói truyền cảm hứng
 - [Nội tâm |ĐPTK](https://www.facebook.com/share/v/qu9s6qPvqgRTfKsF/?mibextid=p7WL9T)
+
 ### TED talks
 - Effective Reading
   - [Speed Reader](https://youtu.be/HB__TF9rp0E?si=WDvuGuzXA4jssFjg)
@@ -24,4 +25,4 @@
 - [Nếu bạn muốn đạt được mục tiêu, đừng tập trung vào nó](https://youtu.be/V2PP3p4_4R8?si=y22PgnaW3yD869az)
   
 ### học bổng 
-- [HB_NNS](https://uithcm-my.sharepoint.com/:w:/g/personal/22521178_ms_uit_edu_vn/EeSmEztJh7xMkOd7fu9kFowBSyOFtOP5M8jCx8iyf1YQ5A?e=aWkuqQ) 
+- [HB NNS |UIT](https://uithcm-my.sharepoint.com/:w:/g/personal/22521178_ms_uit_edu_vn/EeSmEztJh7xMkOd7fu9kFowBSyOFtOP5M8jCx8iyf1YQ5A?e=aWkuqQ) 

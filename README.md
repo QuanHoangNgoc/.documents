@@ -1,5 +1,6 @@
 # .documents
-### Career 
+### career 
+- [Các câu hỏi phỏng vấn Androi |DevOi](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24918249827818720/?mibextid=K35XfP) 
 - [Craw Data Job 2023 |PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
 - [AI Roadmap |CodeBasicYT](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
 - [9 kỹ năng của người xuất sắc |YT](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 

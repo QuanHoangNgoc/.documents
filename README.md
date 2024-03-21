@@ -1,6 +1,6 @@
 # .documents
 ### career 
-- [Craw Data Job 2023 | PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
+- [Craw Data Job 2023 // PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
 - [AI Roadmap | CodeBasicYT](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
 - [9 kỹ năng của người xuất sắc | YT](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 
 - [Bí quyết Deal Lương | FB](https://www.facebook.com/groups/3062609024006762/?multi_permalinks=3520373728230287&ref=share) 

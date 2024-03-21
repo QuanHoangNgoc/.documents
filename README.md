@@ -1,25 +1,25 @@
 # .documents
 ### career 
-- [Craw Data Job 2023 // PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
-- [AI roadmap](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
-- [9 kỹ năng của người xuất sắc](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 
-- [Bí quyết Deal Lương](https://www.facebook.com/groups/3062609024006762/?multi_permalinks=3520373728230287&ref=share) 
-- Interview
-  - [Problem Solving](https://youtu.be/555TQFT31jE?si=Qs4JZ1vgs5xtgw2d)
-  - [Problem Solving and Algorithm](https://youtu.be/2_mbXFDlfC4?si=W_XPCKrFw--m_VHE)
-  - [Engineer giỏi](https://youtu.be/0Yz8UrS0OwM?si=r0UUXV56_RjlVCMJ)
-  - [Điểm mạnh điểm yếu](https://youtu.be/555TQFT31jE?si=fTNi_YJlwJ4OJrKE)
-  - [Câu hỏi cuối - Smart Question](https://youtu.be/QsJ5_DPAa3M?si=xtw_2Gy_iHRZIZ4_)
-- [Some Guides for Interview](https://youtu.be/W8vGnNwrEfA?si=JW6tZ6swVKbx2gBE)
-- [Demo Phỏng vấn backend](https://youtu.be/9NRt086EIuY?si=MJgzlO_NL-MtR1y8)
-- [Phân tích “keyword” trong JD để viết CV hiệu quả](https://topdev.vn/blog/tim-keyword-trong-jd/)
-- [5 core skills 2024](https://topdev.vn/blog/ky-nang-can-trang-bi-cho-2024/?utm_source=facebook&utm_medium=post&utm_campaign=topdev&utm_term=blog&utm_content=b_ky-nang-can-trang-bi-cho-2024&fbclid=IwAR3EbhMBdnqM5limb-YfBxaU_MPz6ds6_WdHiITQ7X-MGJkEMIpywFC1zy4)
+- [Craw Data Job 2023 ||PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
+- [AI Roadmap ||CodeBasicYT](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
+- [9 kỹ năng của người xuất sắc ||YT](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 
+- [Bí quyết Deal Lương ||FB](https://www.facebook.com/groups/3062609024006762/?multi_permalinks=3520373728230287&ref=share) 
+- Interview Experiments 
+  - [Problem Solving ||YT](https://youtu.be/555TQFT31jE?si=Qs4JZ1vgs5xtgw2d)
+  - [Problem Solving and Algorithm ||YT](https://youtu.be/2_mbXFDlfC4?si=W_XPCKrFw--m_VHE)
+  - [Engineer Giỏi || YT](https://youtu.be/0Yz8UrS0OwM?si=r0UUXV56_RjlVCMJ)
+  - [Điểm Mạnh & Điểm Yếu ||YT](https://youtu.be/555TQFT31jE?si=fTNi_YJlwJ4OJrKE)
+  - [Câu hỏi cuối - Smart Question cho nhà tuyển dụng ||YT](https://youtu.be/QsJ5_DPAa3M?si=xtw_2Gy_iHRZIZ4_)
+- [Some Guides for Interview ||YT](https://youtu.be/W8vGnNwrEfA?si=JW6tZ6swVKbx2gBE)
+- [Demo Phỏng vấn Backend ||YT](https://youtu.be/9NRt086EIuY?si=MJgzlO_NL-MtR1y8)
+- [Phân tích “Keyword” trong JD để viết CV hiệu quả ||TopDev](https://topdev.vn/blog/tim-keyword-trong-jd/)
+- [5 Core Skills in 2024 ||TopDev](https://topdev.vn/blog/ky-nang-can-trang-bi-cho-2024/?utm_source=facebook&utm_medium=post&utm_campaign=topdev&utm_term=blog&utm_content=b_ky-nang-can-trang-bi-cho-2024&fbclid=IwAR3EbhMBdnqM5limb-YfBxaU_MPz6ds6_WdHiITQ7X-MGJkEMIpywFC1zy4)
   - search, research and use AI tools
   - foreign nature languages
   - build relationships
   - psychology, emotion and philosophy: well-being 
   - build contents
-- [journey to go to CTO](https://www.youtube.com/watch?v=mmHNowW8l-Y&t=8s)
+- [journey to go to CTO ||YT](https://www.youtube.com/watch?v=mmHNowW8l-Y&t=8s)
 
 ###### how to learn
 - [Circle of Knowledge](https://www.facebook.com/groups/obsidian.secondbrain/permalink/788107569856714/?mibextid=K35XfP)

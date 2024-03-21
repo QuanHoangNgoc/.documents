@@ -1,4 +1,3 @@
-![image](https://github.com/QuanHoangNgoc/.for_me/assets/143282734/857aac8c-1035-4933-987f-8372f2ef16c9)# .documents
 ### career 
 - [Demo Quy trình phát triển phần mềm |YT](https://youtu.be/T2BzrmhYDvE?si=gYToSWZhRKg007qc)
 - [Hiểu lầm về AI & Layoff |YT](https://youtu.be/F9qPrcYtAKI?si=-32xycZuEtmHWaSI) 

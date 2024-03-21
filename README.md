@@ -1,5 +1,7 @@
-# .documents
+![image](https://github.com/QuanHoangNgoc/.for_me/assets/143282734/857aac8c-1035-4933-987f-8372f2ef16c9)# .documents
 ### career 
+- [Demo Quy trình phát triển phần mềm |YT](https://youtu.be/T2BzrmhYDvE?si=gYToSWZhRKg007qc)
+- [Hiểu lầm về AI & Layoff |YT](https://youtu.be/F9qPrcYtAKI?si=-32xycZuEtmHWaSI) 
 - [Các câu hỏi phỏng vấn Androi |DevOi](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24918249827818720/?mibextid=K35XfP)
 - [x] 21/3/2024
 - [Craw Data Job 2023 |PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 

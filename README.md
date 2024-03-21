@@ -39,6 +39,9 @@
 
 
 ### ai 
+- [Stock Price Prediction |YT]
+  - [1](https://youtu.be/QIUxPv5PJOY?si=eEMAcGtQegd39zfW)
+  - [2](https://youtu.be/EYnC4ACIt2g?si=D52eTebecdvDuMAz) 
 - [Triển khai AI cho Mobile |AIvn](https://www.facebook.com/share/Uh98XXWpnRJgezS1/?mibextid=WC7FNe)
 - [Triển khai AI cho Web |AIvn](https://www.facebook.com/share/p/aRvWBQjE7JKUZ2pv/?mibextid=WC7FNe)
 - [x] 21/3/2024 
@@ -58,6 +61,7 @@
     [2](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
 
 ### data 
+- [Remove Outlieers - Feature Engineering |YT](https://youtu.be/RL9ROUtud8E?si=NNU-x4iUCkP5WPeg) 
 - [Bud500 - Bộ dữ liệu gồm gần 500 giờ giọng nói Tiếng Việt |MiAI](https://www.facebook.com/groups/511510259620251/?multi_permalinks=1598826084221991&ref=share) 
 - [Valuables Insight from Data |YT](https://youtu.be/4VFIYqZ2OTE?si=ryWPInDbKrO_nVvI)
 - [Giải mã Insight from data |YT](https://youtu.be/KbkFe1OqrK4?si=C4PuAcFdKp7vIZgt)

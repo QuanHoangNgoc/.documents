@@ -1,7 +1,7 @@
 # .documents
 ### career 
 - [Các câu hỏi phỏng vấn Androi |DevOi](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24918249827818720/?mibextid=K35XfP)
-- [x] [21/3/2024]
+- [x] 21/3/2024
 - [Craw Data Job 2023 |PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
 - [AI Roadmap |CodeBasicYT](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
 - [9 kỹ năng của người xuất sắc |YT](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 
@@ -30,7 +30,7 @@
 
 ### how to reading and research
 - [Đọc sách cộng hương |Obsidian](https://www.facebook.com/share/p/gJhYTwG8ousL5gCn/?mibextid=K35XfP)
-- [x] [21/3/2024]
+- [x] 21/3/2024
 - [Công cụ đọc PDF cực nhanh |FB](https://www.facebook.com/groups/obsidian.secondbrain/permalink/796658805668257/?mibextid=K35XfP) 
 - [Quy trình đọc Sách Khoa học |FB](https://www.facebook.com/groups/obsidian.secondbrain/permalink/794161009251370/?mibextid=K35XfP)
 - [Cách đọc nhanh |FB](https://www.facebook.com/groups/594306492570157/?multi_permalinks=792430142757790&ref=share)
@@ -40,7 +40,7 @@
 ### ai 
 - [Triển khai AI cho Mobile |AIvn](https://www.facebook.com/share/Uh98XXWpnRJgezS1/?mibextid=WC7FNe)
 - [Triển khai AI cho Web |AIvn](https://www.facebook.com/share/p/aRvWBQjE7JKUZ2pv/?mibextid=WC7FNe)
-- [x] [21/3/2024] 
+- [x] 21/3/2024 
 - [Prompt Engineering |FB](https://www.facebook.com/groups/649228858868758/?multi_permalinks=1857917231333242&ref=share) 
 - [Objec tracking |MiAI](https://youtu.be/hzOU9lp4Xng?si=7xUhTYDb0G4n3R5J) 
 - [Word2Vec |MLcobanVHT](https://machinelearningcoban.com/tabml_book/ch_embedding/word2vec.html)

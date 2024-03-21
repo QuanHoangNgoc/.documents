@@ -1,6 +1,7 @@
 # .documents
 ### career 
-- [Các câu hỏi phỏng vấn Androi |DevOi](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24918249827818720/?mibextid=K35XfP) 
+- [Các câu hỏi phỏng vấn Androi |DevOi](https://www.facebook.com/groups/devoiminhdidauthe/permalink/24918249827818720/?mibextid=K35XfP)
+- [x] [21/3/2024]
 - [Craw Data Job 2023 |PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWI0ZTZjNDUtN2RhNC00MzdjLWI4MDYtZDAyM2FjYzZkMThhIiwidCI6IjJmODVkYzc0LWI2YjQtNDU4NC1iZWVlLWNjZGE3MTQ0NDk3MCIsImMiOjZ9&fbclid=IwAR3YQ2cuf6_cl3hS---NS_stOcIcMfjjJq4cwVONSBgTVTgxzlR7jSD2E1M) 
 - [AI Roadmap |CodeBasicYT](https://youtu.be/MhCHrvfAXlc?si=9PZ3lIYnYWTBBxuw) 
 - [9 kỹ năng của người xuất sắc |YT](https://youtu.be/xGOUYlMmr3c?si=WDXj4GJBMQ-DivJA) 
@@ -22,16 +23,24 @@
   - build contents
 - [journey to go to CTO |YT](https://www.youtube.com/watch?v=mmHNowW8l-Y&t=8s)
 
-### How to learn
+
+### how to learn
 - [Circle of Knowledge |FB](https://www.facebook.com/groups/obsidian.secondbrain/permalink/788107569856714/?mibextid=K35XfP)
 - [HOW TO LEARN |Phd.Duy](https://uithcm-my.sharepoint.com/:b:/g/personal/22521178_ms_uit_edu_vn/Ec8dTph7-TxDl_aygKcwrd4BPL9cpbd2YDd1AyF6bsH4CQ?e=ntt4OU)
-### How to reading and research
+
+### how to reading and research
+- [Đọc sách cộng hương |Obsidian](https://www.facebook.com/share/p/gJhYTwG8ousL5gCn/?mibextid=K35XfP)
+- [x] [21/3/2024]
 - [Công cụ đọc PDF cực nhanh |FB](https://www.facebook.com/groups/obsidian.secondbrain/permalink/796658805668257/?mibextid=K35XfP) 
 - [Quy trình đọc Sách Khoa học |FB](https://www.facebook.com/groups/obsidian.secondbrain/permalink/794161009251370/?mibextid=K35XfP)
 - [Cách đọc nhanh |FB](https://www.facebook.com/groups/594306492570157/?multi_permalinks=792430142757790&ref=share)
 - [Các công cụ hỗ trợ đọc và nghiên cứu |FB](https://www.facebook.com/groups/aiartworksvn/permalink/3654210378125153/?mibextid=K35XfP)
 
-### AI
+
+### ai 
+- [Triển khai AI cho Mobile |AIvn](https://www.facebook.com/share/Uh98XXWpnRJgezS1/?mibextid=WC7FNe)
+- [Triển khai AI cho Web |AIvn](https://www.facebook.com/share/p/aRvWBQjE7JKUZ2pv/?mibextid=WC7FNe)
+- [x] [21/3/2024] 
 - [Prompt Engineering |FB](https://www.facebook.com/groups/649228858868758/?multi_permalinks=1857917231333242&ref=share) 
 - [Objec tracking |MiAI](https://youtu.be/hzOU9lp4Xng?si=7xUhTYDb0G4n3R5J) 
 - [Word2Vec |MLcobanVHT](https://machinelearningcoban.com/tabml_book/ch_embedding/word2vec.html)
@@ -46,11 +55,13 @@
 - [Tensorflow input pipeline - Tăng tốc độ fitting |MiAI](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
   - [1](https://youtu.be/4A5vftpj_Pc?si=2ZdZFb0ls8CSqxkZ)
     [2](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
-### Data 
+
+### data 
 - [Bud500 - Bộ dữ liệu gồm gần 500 giờ giọng nói Tiếng Việt |MiAI](https://www.facebook.com/groups/511510259620251/?multi_permalinks=1598826084221991&ref=share) 
 - [Valuables Insight from Data |YT](https://youtu.be/4VFIYqZ2OTE?si=ryWPInDbKrO_nVvI)
 - [Giải mã Insight from data |YT](https://youtu.be/KbkFe1OqrK4?si=C4PuAcFdKp7vIZgt)
-### Programing & Development 
+
+### programing & development 
 - [Đồ họa máy tính |VuCoder](https://youtu.be/6d9A9DlI0WI?si=XBt6abhCn7jEbzIY) 
 - [Các tầng của Cloud |FB](https://www.facebook.com/share/p/mFP1YkxrWhxeyUpd/?mibextid=K35XfP)
 - [Software Engineer - Layers |YT](https://youtu.be/5tqaDRM2nvM?si=lZM15awhABBTPb9D) 

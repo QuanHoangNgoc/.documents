@@ -1,4 +1,4 @@
-# .learning
+# learning
 ### courses & learn about 
 - [x] [uit](https://courses.uit.edu.vn/)
   [coursera](https://www.coursera.org/my-learning?myLearningTab=COMPLETED)
@@ -26,7 +26,7 @@
 
 - [x] [PP NCKH cho cao học](https://github.com/QuanHoangNgoc/CS2205.CH1501)
 
-- Anh Sơn
+- Mentor 
   - "Awesome" Keyword 
     - [Awesome-Object-Detection](https://github.com/daicoolb/Awesome-Object-Detections)
     - [Object Detection](https://github.com/amusi/awesome-object-detection)

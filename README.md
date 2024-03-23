@@ -1,3 +1,5 @@
+# Useful Documents For You
+
 ### career 
 - [GitHub: CV thứ 2 |VietNgAI](https://www.youtube.com/watch?v=DsaXk2GobLU) 
 - [Demo Quy trình phát triển phần mềm |YT](https://youtu.be/T2BzrmhYDvE?si=gYToSWZhRKg007qc)
@@ -57,11 +59,13 @@
 - [Tensorflow input pipeline - Tăng tốc độ fitting |MiAI](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
   - [1](https://youtu.be/4A5vftpj_Pc?si=2ZdZFb0ls8CSqxkZ)
     [2](https://youtu.be/VFEOskzhhbc?si=ZBKKU0OB5QK0rj8X)
+
 ### data 
 - [Remove Outlieers - Feature Engineering |YT](https://youtu.be/RL9ROUtud8E?si=NNU-x4iUCkP5WPeg) 
 - [Bud500 - Bộ dữ liệu gồm gần 500 giờ giọng nói Tiếng Việt |MiAI](https://www.facebook.com/groups/511510259620251/?multi_permalinks=1598826084221991&ref=share) 
 - [Valuables Insight from Data |YT](https://youtu.be/4VFIYqZ2OTE?si=ryWPInDbKrO_nVvI)
 - [Giải mã Insight from data |YT](https://youtu.be/KbkFe1OqrK4?si=C4PuAcFdKp7vIZgt)
+
 ### programing & development 
 - [Đồ họa máy tính |VuCoder](https://youtu.be/6d9A9DlI0WI?si=XBt6abhCn7jEbzIY) 
 - [Các tầng của Cloud |FB](https://www.facebook.com/share/p/mFP1YkxrWhxeyUpd/?mibextid=K35XfP)

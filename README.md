@@ -1,13 +1,13 @@
 # Learning
 ### formal learning and sources 
-- [x] [uit](https://courses.uit.edu.vn/)
-  [coursera](https://www.coursera.org/my-learning?myLearningTab=COMPLETED)
-- [x] [google search]()  [ChatGPT/Gemini]() 
-  [kaggle](https://www.kaggle.com/learn)
-  [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
+- [x] [Uit](https://courses.uit.edu.vn/)
+  [Coursera](https://www.coursera.org/my-learning?myLearningTab=COMPLETED)
+- [x] [Google search/advange]()  [ChatGPT/Gemini]() 
+- [Kaggle](https://www.kaggle.com/learn)
+  [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
 ### cloud computers and repo 
-- [x] [kaggle](https://www.kaggle.com/work/code)
-  [colab](https://colab.research.google.com/)
+- [x] [Kaggle](https://www.kaggle.com/work/code)
+  [Colab](https://colab.research.google.com/)
 - [x] [github](https://github.com/QuanHoangNgoc)
 - [x] [drive](https://drive.google.com/drive/u/0/home)
   [onedrive](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&view=0)

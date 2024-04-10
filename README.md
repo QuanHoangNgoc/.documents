@@ -1,16 +1,16 @@
 # Learning
 ### Formal Learning and Sources 
 - [x] [Uit](https://courses.uit.edu.vn/)
-  [Coursera](https://www.coursera.org/my-learning?myLearningTab=COMPLETED)
-- [x] [Google search advance]()  [Gemini/ChatGPT]() 
+  | [Coursera](https://www.coursera.org/my-learning?myLearningTab=COMPLETED)
+- [x] [Google search advance]() | [Gemini/ChatGPT]() 
 - [Kaggle](https://www.kaggle.com/learn)
-  [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
+  | [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo/featured)
 ### Cloud Computers and Repo 
 - [x] [Kaggle](https://www.kaggle.com/work/code)
-[CoLab](https://colab.research.google.com/)
+  | [CoLab](https://colab.research.google.com/)
 - [x] [GitHub](https://github.com/QuanHoangNgoc)
 - [x] [Drive](https://drive.google.com/drive/u/0/home)
-  [Onedrive](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&view=0)
+  | [Onedrive](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&view=0)
 
 # References (previous background & framework) 
 - [ML from scratch](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)

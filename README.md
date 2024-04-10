@@ -22,7 +22,7 @@
 - Papers Searching and Reviewing
   - [x] [Papers With Code](https://paperswithcode.com/)
   - [Scholar](https://scholar.google.com.vn/)
-  - [Gesearchgate](https://github.com/QuanHoangNgoc/CS2205.CH1501/blob/main/README.md)
+  - [Researchgate](https://github.com/QuanHoangNgoc/CS2205.CH1501/blob/main/README.md)
   - [x] ERA (CORE) Ranking
     
 - [x] Uit course: [PP NCKH cho cao học](https://github.com/QuanHoangNgoc/CS2205.CH1501)
